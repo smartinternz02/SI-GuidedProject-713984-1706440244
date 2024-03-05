@@ -19,15 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://craferia.com/home-decor/')
+WebUI.navigateToUrl('https://craferia.com/handmade-furnitures/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/img_category_banner_image'), 
-    0)
+WebUI.mouseOver(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Handmade Furnitures'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'), 
-    'Home Decor - Items & Gifts')
+WebUI.click(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Natural Mudha'))
 
-WebUI.rightClick(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'))
+WebUI.verifyElementText(findTestObject('Object Repository/Handmade Furnitures/Page_Natural Mudha made of Bamboo  Woods  Craferia/h1_Natural Mudha'), 
+    'Natural Mudha')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Handmade Furnitures/Page_Natural Mudha made of Bamboo  Woods  Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Handmade Furnitures/Page_Natural Mudha made of Bamboo  Woods  Craferia/span_1,599.00'), 
+    '₹1,599.00')
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Handmade Furnitures/Page_Natural Mudha made of Bamboo  Woods  Craferia/a_Add to cart'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Handmade Furnitures/Page_Natural Mudha made of Bamboo  Woods  Craferia/span_FREE SHIPPING'))
 
 WebUI.closeBrowser()
 

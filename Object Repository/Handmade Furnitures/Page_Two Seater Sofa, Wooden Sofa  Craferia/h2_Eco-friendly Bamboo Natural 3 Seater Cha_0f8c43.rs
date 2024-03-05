@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Eco-friendly Bamboo Natural 3 Seater Cha_0f8c43</name>
+   <tag></tag>
+   <elementGuidId>231cd45d-894f-41d6-a5f7-a696b44b624a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.woocommerce-loop-product__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bbfa6829-8e5e-4ff4-83db-53f58c8f0816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-loop-product__title</value>
+      <webElementGuid>03e2561d-03ef-4efe-9a94-8fe9c689a18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eco-friendly Bamboo Natural 3 Seater Chair/Bamboo Sofa 3 Seater for indoor outdoor</value>
+      <webElementGuid>e284501d-00cf-4881-88e8-275efb7b703e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-6438 status-publish first instock product_cat-sofa-chair-long-chair has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
+      <webElementGuid>81fddf11-0ec2-48c1-a18b-eeb9baae0825</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li/a/h2</value>
+      <webElementGuid>0ba649dd-500d-43b8-87df-2813e42ddf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>7c7da41f-7473-47d5-a8b7-1d60592f7dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Eco-friendly Bamboo Natural 3 Seater Chair/Bamboo Sofa 3 Seater for indoor outdoor' or . = 'Eco-friendly Bamboo Natural 3 Seater Chair/Bamboo Sofa 3 Seater for indoor outdoor')]</value>
+      <webElementGuid>1d0c8d8e-b3fe-42b3-a98c-f1ad4766ada7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

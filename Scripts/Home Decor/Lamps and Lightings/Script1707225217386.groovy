@@ -23,15 +23,15 @@ WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
 WebUI.waitForPageLoad(30)
 
-WebUI.mouseOver(findTestObject('Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Lamps  Lightings'))
+WebUI.click(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Lamps  Lightings'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Lamps  Lightings - Craferia/h1_Lamps  Lightings'), 'Lamps & Lightings')
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Lamps  Lightings - Craferia/h1_Lamps  Lightings'), 'Lamps & Lightings')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Lamps  Lightings - Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Decor/Page_Lamps  Lightings - Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Lamps  Lightings - Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098_1'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Decor/Page_Lamps  Lightings - Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098_1'))
 
 WebUI.closeBrowser()
 

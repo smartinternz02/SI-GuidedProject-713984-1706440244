@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_Home Decor - Items  Gifts</name>
+   <name>span_1,750.00</name>
    <tag></tag>
-   <elementGuidId>ff72827c-422d-443c-98d7-e35c19e79c61</elementGuidId>
+   <elementGuidId>b14df14e-6d1b-4634-a4ef-553230d8b837</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h1.woocommerce-products-header__title.page-title</value>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a/span/span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main']/header/h1</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>30ad96d7-3c64-4a60-bba8-4e0e4c98ced7</webElementGuid>
+      <value>span</value>
+      <webElementGuid>0ce00d0f-27a9-4bf6-84a3-a90aa15b2031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>woocommerce-products-header__title page-title</value>
-      <webElementGuid>b4bd4d3a-6831-4645-967e-fede515111b6</webElementGuid>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>835819b2-f120-46cf-968f-802e16df75b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Home Decor - Items &amp; Gifts</value>
-      <webElementGuid>7c6c3112-7662-4699-baad-582354f50bda</webElementGuid>
+      <value>₹1,750.00</value>
+      <webElementGuid>03dff399-748b-4dc4-aa38-a6641fb606b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
-      <webElementGuid>ca539d5c-97d6-4110-91eb-28b380547108</webElementGuid>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-27665 status-publish first instock product_cat-cane-fruit-baskets has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>a8a7d540-854b-43e9-8536-dfd84a84a4fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='main']/header/h1</value>
-      <webElementGuid>4887ff40-514d-49e6-8728-c3b721d6e4f8</webElementGuid>
+      <value>//main[@id='main']/ul/li/a/span/span[2]</value>
+      <webElementGuid>0a49bdcc-5aef-4411-9be8-92c58ef6ecc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>9e1b82ca-d0c4-4e2e-a5fc-139d46b93cb9</webElementGuid>
+      <value>//span/span[2]</value>
+      <webElementGuid>d9a7944e-52c6-4f7e-9b39-36d22da877cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'Home Decor - Items &amp; Gifts' or . = 'Home Decor - Items &amp; Gifts')]</value>
-      <webElementGuid>ad37757d-5dc4-4ca7-a208-c1c71a9b17b7</webElementGuid>
+      <value>//span[(text() = '₹1,750.00' or . = '₹1,750.00')]</value>
+      <webElementGuid>3d9858db-1ab3-4f57-8abf-328523c54495</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

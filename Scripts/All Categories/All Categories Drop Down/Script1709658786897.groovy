@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://craferia.com/home-decor/')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/img_category_banner_image'), 
-    0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'), 
-    'Home Decor - Items & Gifts')
-
-WebUI.rightClick(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'))
-
-WebUI.closeBrowser()
-

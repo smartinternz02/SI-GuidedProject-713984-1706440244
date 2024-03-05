@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Showpieces  Figurines</name>
+   <name>a_Wooden Furnitures</name>
    <tag></tag>
-   <elementGuidId>faf2e9d0-2459-4f93-9799-ba852cc37e6b</elementGuidId>
+   <elementGuidId>0c93eab4-3b59-4525-903d-8f3305fedf0f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#menu-item-26678 > a</value>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26675']/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='menu-item-26678']/a</value>
+         <key>CSS</key>
+         <value>#menu-item-26675 > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fc7ec397-b438-4f69-b6b6-8fa8fdd36b0c</webElementGuid>
+      <webElementGuid>ae602453-7298-45c1-8d73-3605f4cec264</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://craferia.com/showpieces-figurines/</value>
-      <webElementGuid>876edf07-b660-405e-bf53-8b9404f4928e</webElementGuid>
+      <value>https://craferia.com/wooden-furnitures/</value>
+      <webElementGuid>04913cae-9d42-4cba-9df2-0091000844b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Showpieces &amp; Figurines</value>
-      <webElementGuid>1db84870-e173-46e7-92f9-15f38cd5b483</webElementGuid>
+      <value>Wooden Furnitures</value>
+      <webElementGuid>522b11ed-7155-4e74-9c0a-99b46ee6ee06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-item-26678&quot;)/a[1]</value>
-      <webElementGuid>7f33b7f0-cde5-4a33-959f-090772fe4e89</webElementGuid>
+      <value>id(&quot;menu-item-26675&quot;)/a[1]</value>
+      <webElementGuid>cd85febe-5e2c-47ce-a618-5a8fdd517428</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='menu-item-26678']/a</value>
-      <webElementGuid>c2c99b9b-c372-4bc8-9913-a3ad12056794</webElementGuid>
+      <value>//li[@id='menu-item-26675']/a</value>
+      <webElementGuid>88a8a5ee-acb5-4731-a516-f5d215704b9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Showpieces &amp; Figurines')]</value>
-      <webElementGuid>a2fe5c77-877b-49a6-8f48-7133aa2e4a82</webElementGuid>
+      <value>//a[contains(text(),'Wooden Furnitures')]</value>
+      <webElementGuid>f2e8936b-32e5-4385-9c2b-11c67cb7c340</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://craferia.com/showpieces-figurines/')]</value>
-      <webElementGuid>b4d0d649-7e51-4452-a176-7288cf9f45c6</webElementGuid>
+      <value>//a[contains(@href, 'https://craferia.com/wooden-furnitures/')]</value>
+      <webElementGuid>9d0189fe-0485-4072-b181-4cb8ff5a104d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/ul/li/a</value>
-      <webElementGuid>7fa0db0f-32fe-40fa-bdcf-978b49d76f1f</webElementGuid>
+      <value>//li[2]/ul/li[8]/a</value>
+      <webElementGuid>8357694b-4ce1-4941-b34f-124983dd4918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://craferia.com/showpieces-figurines/' and (text() = 'Showpieces &amp; Figurines' or . = 'Showpieces &amp; Figurines')]</value>
-      <webElementGuid>c48b5647-2287-481c-ae43-9348555e4aad</webElementGuid>
+      <value>//a[@href = 'https://craferia.com/wooden-furnitures/' and (text() = 'Wooden Furnitures' or . = 'Wooden Furnitures')]</value>
+      <webElementGuid>e88fb0a6-cb7c-4d39-86cd-ea8724ad070f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

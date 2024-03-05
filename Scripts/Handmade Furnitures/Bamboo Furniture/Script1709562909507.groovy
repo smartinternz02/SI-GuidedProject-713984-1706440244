@@ -19,15 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://craferia.com/home-decor/')
+WebUI.navigateToUrl('https://craferia.com/handmade-furnitures/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/img_category_banner_image'), 
-    0)
+WebUI.mouseOver(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547 (2)/a_Handmade Furnitures'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'), 
-    'Home Decor - Items & Gifts')
+WebUI.click(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547 (2)/a_Bamboo Furniture'))
 
-WebUI.rightClick(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'))
+WebUI.verifyElementText(findTestObject('Object Repository/Handmade Furnitures/Page_Bamboo Furniture Set Online  Bamboo Ca_270e08/h1_Bamboo Furniture'), 
+    'Bamboo Furniture')
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Handmade Furnitures/Page_Bamboo Furniture Set Online  Bamboo Ca_270e08/p_Bamboo is a highly sustainable material t_882103'))
 
 WebUI.closeBrowser()
 

@@ -19,15 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://craferia.com/home-decor/')
+WebUI.navigateToUrl('https://craferia.com/handmade-furnitures/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/img_category_banner_image'), 
+WebUI.mouseOver(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Handmade Furnitures'))
+
+WebUI.click(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Cane Baskets'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Handmade Furnitures/Page_Cane Baskets by Craferia/h1_Cane Baskets'), 
+    'Cane Baskets')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Handmade Furnitures/Page_Cane Baskets by Craferia/ul_Square Shaped Design wicker willow kashm_7a51d4'), 
     0)
-
-WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'), 
-    'Home Decor - Items & Gifts')
-
-WebUI.rightClick(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'))
 
 WebUI.closeBrowser()
 

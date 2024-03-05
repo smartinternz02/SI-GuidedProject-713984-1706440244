@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h1_Showpieces  Figurines</name>
+   <name>span_6,500.00</name>
    <tag></tag>
-   <elementGuidId>5b6c406b-9144-4d18-a8bf-d4d140566d9b</elementGuidId>
+   <elementGuidId>91336dac-14bf-4a1b-9ff2-d4020c472c99</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h1.woocommerce-products-header__title.page-title</value>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a/span/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//main[@id='main']/header/h1</value>
+         <key>CSS</key>
+         <value>span.price > span.woocommerce-Price-amount.amount</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>d9827afc-1586-4bd3-8950-0f5f1849a838</webElementGuid>
+      <value>span</value>
+      <webElementGuid>23c36709-6804-4054-8a54-c2d542267d0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>woocommerce-products-header__title page-title</value>
-      <webElementGuid>6c147cae-080d-4567-a457-6aa257f13d86</webElementGuid>
+      <value>woocommerce-Price-amount amount</value>
+      <webElementGuid>e8ad6495-3150-4cc3-95c6-f9ebbf1aefde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Showpieces &amp; Figurines</value>
-      <webElementGuid>1a4de9f7-d4a9-45b6-94ff-d16cf27b9ce7</webElementGuid>
+      <value>₹6,500.00</value>
+      <webElementGuid>7cd9f270-d9d8-4588-8a17-2a4dc56e4623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main&quot;)/header[@class=&quot;woocommerce-products-header&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
-      <webElementGuid>55383e04-0076-4867-a966-547101a4645c</webElementGuid>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-6438 status-publish first instock product_cat-sofa-chair-long-chair has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      <webElementGuid>a34d0b07-8a43-4798-989e-e1f6d6314a0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//main[@id='main']/header/h1</value>
-      <webElementGuid>1b9e10d3-f230-4cda-809c-2c4df37f102d</webElementGuid>
+      <value>//main[@id='main']/ul/li/a/span/span</value>
+      <webElementGuid>320d5514-a094-4d73-b4b1-424c8e6f79e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h1</value>
-      <webElementGuid>8ccd4a77-f485-4f46-ac6b-4102d6a609ec</webElementGuid>
+      <value>//main/ul/li/a/span/span</value>
+      <webElementGuid>143833fb-ac5e-4a4e-a82b-793bdcb008b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = 'Showpieces &amp; Figurines' or . = 'Showpieces &amp; Figurines')]</value>
-      <webElementGuid>03df5815-d081-46d6-a8d5-8b67e4d7489f</webElementGuid>
+      <value>//span[(text() = '₹6,500.00' or . = '₹6,500.00')]</value>
+      <webElementGuid>8349c374-c837-4a1a-ae51-b75cf927ce87</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

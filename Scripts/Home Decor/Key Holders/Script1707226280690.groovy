@@ -23,15 +23,15 @@ WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
 WebUI.waitForPageLoad(30)
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Key Holders'))
+WebUI.click(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Key Holders'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Handmade Key Holders by Craferia/h1_Key Holders'), 'Key Holders')
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Handmade Key Holders by Craferia/h1_Key Holders'), 'Key Holders')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Handmade Key Holders by Craferia/ul_Beautiful Key Holder for Home DecorOffic_7f7545'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Decor/Page_Handmade Key Holders by Craferia/ul_Beautiful Key Holder for Home DecorOffic_7f7545'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Handmade Key Holders by Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Home Decor/Page_Handmade Key Holders by Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
 
 WebUI.closeBrowser()
 

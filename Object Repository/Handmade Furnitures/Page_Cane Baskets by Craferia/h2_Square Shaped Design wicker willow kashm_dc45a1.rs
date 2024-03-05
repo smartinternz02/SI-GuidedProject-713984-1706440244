@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Square Shaped Design wicker willow kashm_dc45a1</name>
+   <tag></tag>
+   <elementGuidId>eea3cc36-0932-48bf-a58f-226e3dad1048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/ul/li/a/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.woocommerce-loop-product__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>907d476c-3b99-4259-9959-7f3c22d9fde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-loop-product__title</value>
+      <webElementGuid>163f0eb5-ca6e-47de-a56f-13aaa5b30ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets</value>
+      <webElementGuid>effeaf14-8665-4ef6-b73f-7e4e8d2808ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/ul[@class=&quot;products columns-4&quot;]/li[@class=&quot;product type-product post-27665 status-publish first instock product_cat-cane-fruit-baskets has-post-thumbnail taxable shipping-taxable purchasable product-type-variable&quot;]/a[@class=&quot;woocommerce-LoopProduct-link woocommerce-loop-product__link&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
+      <webElementGuid>831b60e6-ddd3-4941-91e3-5be8461830c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/ul/li/a/h2</value>
+      <webElementGuid>c64cdf8d-3606-43d4-903e-2034fe9335cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>02731a51-83ce-42b5-bd87-c5b314413bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets' or . = 'Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets')]</value>
+      <webElementGuid>06465163-7232-43fb-8b53-6c05a9222a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

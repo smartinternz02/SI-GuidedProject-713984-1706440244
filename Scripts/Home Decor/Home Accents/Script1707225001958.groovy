@@ -23,14 +23,14 @@ WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
 WebUI.waitForPageLoad(30)
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Accents'))
+WebUI.click(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Accents'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Decorative Home Accents, Home Decor Ac_c4ffa5/h1_Home Accents'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Decorative Home Accents, Home Decor Ac_c4ffa5/h1_Home Accents'), 
     'Home Accents')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Decorative Home Accents, Home Decor Ac_c4ffa5/img_attachment-woocommerce_thumbnail size-w_8f6098'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Decor/Page_Decorative Home Accents, Home Decor Ac_c4ffa5/img_attachment-woocommerce_thumbnail size-w_8f6098'))
 
 WebUI.closeBrowser()
 

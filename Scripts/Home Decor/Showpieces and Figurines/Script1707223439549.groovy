@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Showpieces  Figurines'))
+WebUI.click(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Showpieces  Figurines'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Showpieces  Figurines  Craferia/h1_Showpieces  Figurines'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Showpieces  Figurines  Craferia/h1_Showpieces  Figurines'), 
     'Showpieces & Figurines')
 
 WebUI.closeBrowser()

@@ -19,15 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://craferia.com/home-decor/')
+WebUI.navigateToUrl('https://craferia.com/handmade-furnitures/')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/img_category_banner_image'), 
+WebUI.mouseOver(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Handmade Furnitures'))
+
+WebUI.click(findTestObject('Object Repository/Handmade Furnitures/Page_Handcrafted  Handmade Bamboo Cane Furn_32f547/a_Wooden Charpai Pidha Stool'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Handmade Furnitures/Page_Pidha, Wooden Pidha Chair  Craferia/h1_Wooden Charpai Pidha Stool'), 
+    'Wooden Charpai Pidha Stool')
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Handmade Furnitures/Page_Pidha, Wooden Pidha Chair  Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'), 
     0)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'), 
-    'Home Decor - Items & Gifts')
-
-WebUI.rightClick(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/h1_Home Decor - Items  Gifts'))
+WebUI.verifyTextPresent('Pidha Stool', false)
 
 WebUI.closeBrowser()
 

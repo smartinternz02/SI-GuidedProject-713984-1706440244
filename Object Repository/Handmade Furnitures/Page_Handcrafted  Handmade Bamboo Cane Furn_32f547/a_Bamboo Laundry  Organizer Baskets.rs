@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bamboo Laundry  Organizer Baskets</name>
+   <tag></tag>
+   <elementGuidId>5a9dbb46-5bfd-484b-a91a-9dbb59bb71e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-26666']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-26666 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ff0c784-eec2-485f-93be-185b93e7e8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://craferia.com/bamboo-laundry-organizer-baskets/</value>
+      <webElementGuid>18dcf0de-96ea-4a6b-9b5f-8ef48b5d3160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bamboo Laundry &amp; Organizer Baskets</value>
+      <webElementGuid>3c9a2c0f-0264-42e4-a875-27a59978b0b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-26666&quot;)/a[1]</value>
+      <webElementGuid>7a151a0b-bf27-47fe-8896-8055a7770361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-26666']/a</value>
+      <webElementGuid>9fa966b8-a37a-49d4-8ab5-b29cc6a53bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bamboo Laundry &amp; Organizer Baskets')]</value>
+      <webElementGuid>775dfdb4-24c6-4bc2-b7f5-e3845bf7cd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://craferia.com/bamboo-laundry-organizer-baskets/')]</value>
+      <webElementGuid>52ff685f-0e0a-41b3-9216-f2fd8936ea56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[2]/a</value>
+      <webElementGuid>6b2d9783-ea90-4e0b-b406-f6c207298bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://craferia.com/bamboo-laundry-organizer-baskets/' and (text() = 'Bamboo Laundry &amp; Organizer Baskets' or . = 'Bamboo Laundry &amp; Organizer Baskets')]</value>
+      <webElementGuid>11faee11-147d-4584-a4b4-008f6ba875bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

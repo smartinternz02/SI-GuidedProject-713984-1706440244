@@ -23,15 +23,15 @@ WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
 WebUI.waitForPageLoad(30)
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Clock'))
+WebUI.click(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Clock'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Handicraft Wall Clock  Craferia/h1_Clock'), 'Clock')
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Handicraft Wall Clock  Craferia/h1_Clock'), 'Clock')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Handicraft Wall Clock  Craferia/ul_50 OFFSALEWooden Tripot Stand Analog Vin_235f1b'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Home Decor/Page_Handicraft Wall Clock  Craferia/ul_50 OFFSALEWooden Tripot Stand Analog Vin_235f1b'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Handicraft Wall Clock  Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Home Decor/Page_Handicraft Wall Clock  Craferia/img_attachment-woocommerce_thumbnail size-w_8f6098'))
 
 WebUI.closeBrowser()
 

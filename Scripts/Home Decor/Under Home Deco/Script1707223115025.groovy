@@ -21,24 +21,24 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://craferia.com/home-decor/')
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
+WebUI.mouseOver(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Decor  Items  Gifts'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Showpieces  Figurines'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Showpieces  Figurines'), 
     'Showpieces & Figurines')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Wall Decor'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Wall Decor'), 
     'Wall Decor')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Accents'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Home Accents'), 
     'Home Accents')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Lamps  Lightings'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Lamps  Lightings'), 
     'Lamps & Lightings')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Clock'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Clock'), 
     'Clock')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Key Holders'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Home Decor/Page_Buy Home Decor Items of Handicrafts an_da8078/a_Key Holders'), 
     'Key Holders')
 
 WebUI.closeBrowser()

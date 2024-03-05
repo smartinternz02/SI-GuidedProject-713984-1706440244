@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Square Shaped Design wicker willow kashm_8d8645</name>
+   <tag></tag>
+   <elementGuidId>0bb369fc-5d48-455d-8aa9-1d2e80aa9326</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-27665']/div[2]/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.product_title.entry-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8a2b37b9-60aa-4afb-b6e1-b19cdcd26701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product_title entry-title</value>
+      <webElementGuid>b3da838d-0528-439f-a71b-3bb1ecd06add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets</value>
+      <webElementGuid>0e738bf6-a0ad-480c-b16e-8c808f64364b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-27665&quot;)/div[@class=&quot;summary entry-summary&quot;]/h1[@class=&quot;product_title entry-title&quot;]</value>
+      <webElementGuid>9367c7d6-0f6c-4671-a8ae-01f107090fc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-27665']/div[2]/h1</value>
+      <webElementGuid>8cf0c8e8-ba9f-4651-94f8-9898a2139a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>e9316fcd-0761-4505-9049-55373743d945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets' or . = 'Square Shaped Design wicker willow kashmir baskets for gifts, pooja, fruits basket /Multipurpose cane bamboo baskets')]</value>
+      <webElementGuid>0d868c3c-feb4-42f9-86e8-15c04b4657c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>3c01986a-a311-464e-8acb-a9b05c55c899</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>img.category_banner_image</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='content']/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.category_banner_image</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
